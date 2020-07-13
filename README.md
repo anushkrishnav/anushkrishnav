@@ -30,9 +30,9 @@
 </p>
 <p>
    <a>
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/anushkrishnav?label=%2B%20Follow&style=social">
+      <img alt="GitHub followers" img src="https://img.shields.io/github/followers/anushkrishnav?label=%2B%20Follow&style=social">
    </a>
-   <a>
+   <a herf="https://www.youtube.com/channel/UCRJRaEjRp_MSOsB7scQkPcQ?view_as=subscriber">
       <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/l6nr_2gcrl8?style=social">
    </a>
 </p>
