@@ -14,13 +14,24 @@
 <br>
 
 ![](https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif)
-
+<p>
+<a href="https://twitter.com/Anush_krishna_v">
+  <img align="left" alt="Anush Krishna | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/anush-krishna-8270941a0/">
+  <img align="left" alt="Anushkrishna's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/__.patronus.__/?hl=en/">
+  <img align="left" alt="Anush krishna's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://medium.com/@anush.venkatakrishna">
+  <img align="left" alt="Anush krishna's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+</a>
+</p>
 <p>
    <a>
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/anushkrishnav?label=%2B%20Follow&style=social">
    </a>
-   <a>
-      <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAnush_krishna_v">      </a>
    <a>
       <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/l6nr_2gcrl8?style=social">
    </a>
