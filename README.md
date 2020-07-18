@@ -3,6 +3,8 @@
    <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightgreen>
 </a>
 
+![](https://github-readme-stats.vercel.app/api?username=anushkrishnav)
+
 * Data analytics student
 * Pythonner
 * Writer 
@@ -14,6 +16,8 @@
 <br>
 
 ![](https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif)
+
+
 <p>
 <a href="https://twitter.com/Anush_krishna_v">
   <img align="left" alt="Anush Krishna | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
