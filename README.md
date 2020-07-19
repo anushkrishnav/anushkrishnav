@@ -1,4 +1,4 @@
-#  I am [![text95f7620aec7161ed.gif](https://s7.gifyu.com/images/text95f7620aec7161ed.gif)](https://gifyu.com/image/Qj6Y) and I love memes
+#  I am Anush Krishna V and I love memes
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightgreen>
 </a>
