@@ -7,6 +7,9 @@
 
 * Data analytics student
 * Pythonner
+* Java
+* C#
+* HTML,CSS
 * Writer 
 * Speaker
 
