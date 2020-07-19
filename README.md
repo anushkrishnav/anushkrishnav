@@ -1,4 +1,4 @@
-#  I am Anush Krishna V and I love memes
+#  I am Anush Krishna and I love memes
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightgreen>
 </a>
