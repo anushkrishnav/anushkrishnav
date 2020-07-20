@@ -2,6 +2,7 @@
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightgreen>
 </a>
+
 ![](https://github-readme-stats.vercel.app/api?username=anushkrishnav&show_icons=true&title_color=8fe9e0&icon_color=79ff97&text_color=FFFFFF&theme=dark)
 
 <p>
