@@ -17,7 +17,8 @@
 <i class="devicon-c-plain"></i>
 </a>
 
-* Data analytics student
+* Data analytics :SPSS 
+* Data Visualization : Pandas,Matplotlib
 * Writer 
 * Speaker
 
