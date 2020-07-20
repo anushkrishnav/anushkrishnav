@@ -1,3 +1,4 @@
 Source for the images , html tags or anything I am using here which is not created by me 
 Gif- giphy.com
 Icons -https://icons8.com/
+GitHub Readme Stats-https://github.com/anuraghazra/github-readme-stats
