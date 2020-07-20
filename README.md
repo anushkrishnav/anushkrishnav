@@ -3,7 +3,7 @@
    <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightgreen>
 </a>
 
-![](https://github-readme-stats.vercel.app/api?username=anushkrishnav&show_icons=true&title_color=8fe9e0&icon_color=79ff97&text_color=e43f5a&bg_color=151515)
+![](https://github-readme-stats.vercel.app/api?username=anushkrishnav&show_icons=true&title_color=8fe9e0&icon_color=79ff97&text_color=e43f5a&theme=radical)
 
 <p>
    <a><img src="https://img.icons8.com/color/48/000000/python.png"></a>
