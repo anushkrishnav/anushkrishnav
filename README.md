@@ -5,8 +5,15 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=anushkrishnav&show_icons=true&title_color=8fe9e0&icon_color=79ff97&text_color=e43f5a&bg_color=151515)
 
+<a><img src="https://img.icons8.com/nolan/64/python.png"/>
+</a>
+
+<a>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+<i class="devicon-c-plain"></i>
+</a>
+
 * Data analytics student
-* Pythonner
 * Java
 * C#
 * HTML,CSS
