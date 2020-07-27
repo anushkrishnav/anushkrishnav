@@ -1,4 +1,4 @@
-# :wave:  I am Anush Krishna and I love memes
+# :wave:  I am Anush Krishna .V and I love memes
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightgreen>
    <img src=https://img.shields.io/badge/OpenSource-is_luv-red>
