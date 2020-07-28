@@ -36,7 +36,7 @@
 <a href="https://twitter.com/Anush_krishna_v">
   <img align="left" alt="Anush Krishna | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/anush-krishna-8270941a0/">
+<a href="https://www.linkedin.com/in/anush-krishna-v-8270941a0/">
   <img align="left" alt="Anushkrishna's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/__.patronus.__/?hl=en/">
