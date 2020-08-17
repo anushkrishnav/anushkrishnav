@@ -23,6 +23,8 @@
 * Data Visualization : Pandas,Matplotlib
 * Writer 
 * Speaker
+* Won the Best Out of the Box Hack at Hack for Africa: A Microsoft Challenge! 
+[check it out](https://dvp.st/34cy5G1)
 
 😄 Talk to me about maths,economics,algorithms and technology <br>
 🔭 Show me Memes <br>
