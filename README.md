@@ -1,4 +1,4 @@
-# :wave:  I am Anush Krishna.V and I love memes
+# :wave:  I am Anush Krishna.V and I love memes 🔭 
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightgreen>
    <img src=https://img.shields.io/badge/OpenSource-is_luv-red>
@@ -18,19 +18,34 @@
 <i class="devicon-c-plain"></i>
 </a>
 
-* Data analytics :SPSS 
-* Data Visualization : Pandas, Matplotlib
-* Frameworks : Flask, Streamlit, Django
-* DBMS : Sqlite, Postgres, Oracle
-* Writer 
-* Speaker
-* Won the Best Out of the Box Hack at Hack for Africa: A Microsoft Challenge! 
-[check it out](https://dvp.st/34cy5G1)
+## Things that's keeping me busy
+* Data analytics: SPSS 
+* Data Visualization: Pandas, Matplotlib
+* Frameworks: Flask, Streamlit, Django
+* DBMS: Sqlite, Postgres, Oracle
+* Language: Python, Java
 
-😄 Talk to me about maths,economics,algorithms and technology <br>
+## Knowledge Sharing
+Writtings 
+* [Medium](https://medium.com/@anush.venkatakrishna)
+* [The Path](https://thepathtowardsdatascience.wordpress.com/)<br>
+Public Speaking and Webinars
+
+## Hackathons
+### Won the Best Out of the Box Hack at Hack for Africa: A Microsoft Challenge! 
+[check it out](https://dvp.st/34cy5G1)
+### Mentor - BorderHacks 2020
+### Mentor - Sunhacks
+
+## How you start a Convo with me
+😄 Talk to me about maths, economics, algorithms, and technology <br>
 🔭 Show me Memes <br>
-⚡ Collab with me on Data science Projects.
+⚡ Collab with me on Data science Projects, Hackathons, PyAutomate(looking for some cool Pythonners).
 <br>
+## Maintainer for :
+* [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+* PyAutomate
+
 
 ![](https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif)
 
@@ -49,6 +64,7 @@
   <img align="left" alt="Anush krishna's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
 </p>
+
 
 
 <!--
