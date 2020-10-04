@@ -19,7 +19,9 @@
 </a>
 
 * Data analytics :SPSS 
-* Data Visualization : Pandas,Matplotlib
+* Data Visualization : Pandas, Matplotlib
+* Frameworks : Flask, Streamlit, Django
+* DBMS : Sqlite, Postgres, Oracle
 * Writer 
 * Speaker
 * Won the Best Out of the Box Hack at Hack for Africa: A Microsoft Challenge! 
