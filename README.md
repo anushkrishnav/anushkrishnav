@@ -46,7 +46,7 @@ Public Speaking and Webinars
 <br>
 ## Maintainer for :
 * [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-* PyAutomate
+* [PyAutomate](https://github.com/anushkrishnav/PyAutomate)
 
 
 ![](https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif)
