@@ -38,6 +38,7 @@ Public Speaking and Webinars
 [check it out](https://dvp.st/34cy5G1)
 ### Mentor - BorderHacks 2020
 ### Mentor - Sunhacks
+### Mentor - OpenSource DevScript
 
 ## How you start a Convo with me
 😄 Talk to me about maths, economics, algorithms, and technology <br>
