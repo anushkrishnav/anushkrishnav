@@ -34,9 +34,13 @@ Writtings
 Public Speaking and Webinars
 
 ## Hackathons
+### [Lead Organiser DevScript Winter of Code](https://devscript.tech/woc)
 ### Won the Best Out of the Box Hack at Hack for Africa: A Microsoft Challenge! 
 [check it out](https://dvp.st/34cy5G1)
 ### Mentor - BorderHacks 2020
+### Mentor & Judge - HackGT 2020
+### Mentor - Creatica 2020
+### Mentor - BHackNC 2020
 ### Mentor - Sunhacks
 ### Mentor - OpenSource DevScript
 
