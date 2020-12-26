@@ -50,9 +50,9 @@ Public Speaking and Webinars
 ### Mentor - OpenSource DevScript
 
 ## How you start a Convo with me
-😄 Talk to me about maths, economics, algorithms, and technology <br>
-🔭 Show me Memes <br>
-⚡ Collab with me on Data science Projects, Hackathons, PyAutomate(looking for some cool Pythonners).
+😄 Talk to me about maths, economics, algorithms, and technology. <br>
+🔭 Show me Memes. <br>
+⚡ Collab with me on Data science Projects, Hackathons, PyAutomate(looking for some cool Pythonners). <br>
 ✍️ My latest [Blog](https://anush-venkatakrishna.medium.com/part-1-winter-or-summer-take-your-baby-steps-into-opensource-now-7d661235d7ff)
 <br>
 ## Maintainer for :
