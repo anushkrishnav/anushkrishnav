@@ -34,6 +34,7 @@ Writtings
 Public Speaking and Webinars
 
 ## Hackathons
+### Guild Leader: DevScript Winter of Code at [LHD - Build](https://localhackday.mlh.io/build)
 ### [Lead Organiser DevScript Winter of Code](https://devscript.tech/woc)
 ### Won the Best Out of the Box Hack at Hack for Africa: A Microsoft Challenge! 
 [check it out](https://dvp.st/34cy5G1)
