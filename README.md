@@ -25,7 +25,7 @@
 * Data Visualization: Pandas, Matplotlib
 * Frameworks: Flask, Streamlit, Django
 * DBMS: Sqlite, Postgres, Oracle
-* Language: Python, Java
+* Language: Python
 
 ## Knowledge Sharing
 Writtings 
