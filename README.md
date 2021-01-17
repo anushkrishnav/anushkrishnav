@@ -14,8 +14,7 @@
    <a><img src="https://img.icons8.com/nolan/64/html-5.png"></a>
    <a><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
 </p>
-<a>>
-   <a><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
+<a>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 <i class="devicon-c-plain"></i>
 </a>
