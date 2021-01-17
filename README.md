@@ -10,12 +10,12 @@
 <!--- [](https://user-stats.anushkrishnav.vercel.app/api?username=anushkrishnav&show_icons=true&title_color=8fe9e0&icon_color=79ff97&text_color=FFFFFF&theme=dark) --->
 <p>
    <a><img src="https://img.icons8.com/color/48/000000/python.png"></a>
-   <a><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
    <a><img src="https://img.icons8.com/color/48/000000/c-programming.png"></a>
    <a><img src="https://img.icons8.com/nolan/64/html-5.png"></a>
    <a><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
 </p>
-<a>
+<a>>
+   <a><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 <i class="devicon-c-plain"></i>
 </a>
