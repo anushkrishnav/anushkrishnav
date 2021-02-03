@@ -20,11 +20,21 @@
 </a>
 
 ## Things that's keeping me busy
-* Data analytics: SPSS 
+* Data analytics: SPSS, Weka 
 * Data Visualization: Pandas, Matplotlib
 * Frameworks: Flask, Streamlit, Django
 * DBMS: Sqlite, Postgres, Oracle
 * Language: Python
+
+## Things I plan to Explore in 2021
+* C# / Q#
+* GraphQl
+* MongoDB
+* Auth0
+* React / typescript / Node.js
+* serverless
+* Quantum Computing
+* Apache Spark, Airflow
 
 ## Knowledge Sharing
 Writtings 
