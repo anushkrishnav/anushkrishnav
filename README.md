@@ -31,7 +31,7 @@
 * GraphQl
 * MongoDB
 * Auth0
-* React / typescript / Node.js
+* typescript
 * serverless
 * Quantum Computing
 * Apache Spark, Airflow
@@ -45,6 +45,10 @@ Public Speaking and Webinars
 ## Hackathons
 ### Guild Leader: DevScript Winter of Code at [LHD - Build](https://localhackday.mlh.io/build)
 ### [Lead Organiser DevScript Winter of Code](https://devscript.tech/woc)
+
+### Winner Best Best Quantum Computing Hack, MacHacks 2021
+[Check it out](https://devpost.com/software/quantum-computing-submission)
+
 ### Won the Best Out of the Box Hack at Hack for Africa: A Microsoft Challenge! 
 [check it out](https://dvp.st/34cy5G1)
 
@@ -52,6 +56,7 @@ Public Speaking and Webinars
 ### Philly Codefest 2020 Best Hack for Social Good
 ### Bring ESG funds to the spotlight (Vanguard)
 [check it out](https://devpost.com/software/grow-n-track-u7962v)
+
 ### Mentor - BorderHacks 2020
 ### Mentor & Judge - HackGT 2020
 ### Mentor - Creatica 2020
