@@ -18,7 +18,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 <i class="devicon-c-plain"></i>
 </a>
-## Published my First Github action : [Issue-Watchers](https://github.com/marketplace/actions/issue-watchers)
+
+
 
 ## Things that's keeping me busy
 * Data analytics: SPSS, Weka 
@@ -42,6 +43,9 @@ Writtings
 * [Medium](https://medium.com/@anush.venkatakrishna)
 * [The Path](https://thepathtowardsdatascience.wordpress.com/)<br>
 Public Speaking and Webinars
+
+## Github Action:  
+* [Issue-Watchers](https://github.com/marketplace/actions/issue-watchers)
 
 ## Hackathons
 ### Guild Leader: DevScript Winter of Code at [LHD - Build](https://localhackday.mlh.io/build)
