@@ -50,6 +50,12 @@ Public Speaking and Webinars
 ### Guild Leader: DevScript Winter of Code at [LHD - Build](https://localhackday.mlh.io/build)
 ### [Lead Organiser DevScript Winter of Code](https://devscript.tech/woc)
 
+### Winner Grand Prize Winner IBM Quantum Creative Challenge
+Project 1: Quantum Steganography
+### Honorable Mention at IBM Technical Challenge
+Project 2: Dynamic Traffic Management with Qutrits
+[Check it out here ](https://qc-hacks.herokuapp.com/)
+
 ### Winner Best Best Quantum Computing Hack, MacHacks 2021
 [Check it out](https://devpost.com/software/quantum-computing-submission)
 
