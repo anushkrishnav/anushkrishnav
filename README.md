@@ -1,7 +1,7 @@
 # :wave:  I am Anush Krishna.V and I love memes 🔭 
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-manager-brightgreen>
-   <img src=https://img.shields.io/badge/Issue-watcher-project-admin-brightgreen>
+   <img src=https://img.shields.io/badge/Issue_Watcher-Project_Admin-brightgreen>
 </a>
 
 ## Contact me @  https://anushkrishnav.rocks/
