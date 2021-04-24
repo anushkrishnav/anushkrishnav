@@ -84,6 +84,7 @@ Project 2: Dynamic Traffic Management with Qutrits
 ## Maintainer for :
 * [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 * [PyAutomate](https://github.com/anushkrishnav/PyAutomate)
+* [Issue-Watcher](https://github.com/TesseractCoding/Issue_Watcher)
 
 
 ![](https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif)
