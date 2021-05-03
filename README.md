@@ -27,7 +27,8 @@
 * Frameworks: Flask, Streamlit, Django
 * DBMS: Sqlite, Postgres, Oracle
 * Language: Python
-
+* Quantum Computing : Qiskit, QML
+<!---
 ## Things I plan to Explore in 2021
 * C# / Q#
 * GraphQl
@@ -35,9 +36,9 @@
 * Auth0
 * typescript
 * serverless
-* Quantum Computing
+* 
 * Apache Spark, Airflow
-
+--->
 ## Knowledge Sharing
 Writtings 
 * [Medium](https://medium.com/@anush.venkatakrishna)
