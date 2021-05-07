@@ -39,14 +39,7 @@
 * 
 * Apache Spark, Airflow
 --->
-## Knowledge Sharing
-Writtings 
-* [Medium](https://medium.com/@anush.venkatakrishna)
-* [The Path](https://thepathtowardsdatascience.wordpress.com/)<br>
-Public Speaking and Webinars
 
-## Github Action:  
-* [Issue-Watchers](https://github.com/marketplace/actions/issue-watchers)
 
 ## Hackathons
 ### Guild Leader: DevScript Winter of Code at [LHD - Build](https://localhackday.mlh.io/build)
