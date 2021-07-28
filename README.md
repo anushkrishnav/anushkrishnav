@@ -101,9 +101,6 @@ Project 2: Dynamic Traffic Management with Qutrits
   <img align="left" alt="Anush krishna's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
 </p>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
-
 
 
 <!--
