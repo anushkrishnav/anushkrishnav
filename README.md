@@ -45,6 +45,13 @@
 
 
 ## Hackathons
+
+### Winner Best AI/ML Hack [Robo Hacks](https://robo-hacks.devpost.com/)
+[One-stop Social media Automation for all content creators and community managers out there](https://devpost.com/software/the-boring-business)
+
+### Winner [Azure AI Hackathon Popular Choice award](https://azureai.devpost.com/)
+[LLAM tracks the realtime locusts location and visualizes wind patterns on earth. Predicts the probability of locust attacks on a particular given position through satellite imagery using machine learning models.](https://devpost.com/software/l-l-a-m)
+
 ### Guild Leader: DevScript Winter of Code at [LHD - Build](https://localhackday.mlh.io/build)
 ### [Lead Organiser DevScript Winter of Code](https://devscript.tech/woc)
 
