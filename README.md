@@ -45,14 +45,14 @@
 
 
 ## Hackathons
-| Hackathon Name 	| Awards 	| Project	|
-|----------------	|--------	|--------------	|
-|  [Robo Hacks](https://robo-hacks.devpost.com/)              	|  Winner Best AI/ML Hack      	| [One-stop Social media Automation for all content creators and community managers out there](https://devpost.com/software/the-boring-business)             	|
-| [Azure AI Hackathon ](https://azureai.devpost.com/)               	|    Winner Popular Choice award    	|    [LLAM tracks the realtime locusts location and visualizes wind patterns on earth. Predicts the probability of locust attacks on a particular given position through satellite imagery using machine learning models.](https://devpost.com/software/l-l-a-m)          	|
-|   [Qc Hacks](https://www.quantumcoalition.io/)            	| Winner Grand Prize Winner IBM Quantum Creative Challenge <br> Honorable Mention at IBM Technical Challenge      	| Project 1: Quantum Steganography <br>  [Project 2: Dynamic Traffic Management with Qutrits](https://qc-hacks.herokuapp.com/) 
-|  MacHacks 2021               	|    Winner Best Best Quantum Computing Hack    	|     [Check it out](https://devpost.com/software/quantum-computing-submission) |
-|    Hack for Africa: A Microsoft Challenge!             	|   Won the Best Out of the Box Hack      	|   [check it out](https://dvp.st/34cy5G1)         	|
-|    Philly Codefest 2020            	|     Collaborative Award <br>  Best Hack for Social Good <br> Bring ESG funds to the spotlight (Vanguard)  	|     [check it out](https://devpost.com/software/grow-n-track-u7962v)      	|
+| Hackathon Name 	| Awards 	| Project	| Organiser |
+|----------------	|--------	|--------------	|------|
+|  [Robo Hacks](https://robo-hacks.devpost.com/)              	|  Winner Best AI/ML Hack      	| [One-stop Social media Automation for all content creators and community managers out there](https://devpost.com/software/the-boring-business)             	| Major League Hacking|
+| [Azure AI Hackathon ](https://azureai.devpost.com/)               	|    Winner Popular Choice award    	|    [LLAM tracks the realtime locusts location and visualizes wind patterns on earth. Predicts the probability of locust attacks on a particular given position through satellite imagery using machine learning models.](https://devpost.com/software/l-l-a-m)          	|Microsoft|
+|   [Qc Hacks](https://www.quantumcoalition.io/)            	| Winner Grand Prize Winner IBM Quantum Creative Challenge <br> Honorable Mention at IBM Technical Challenge      	| Project 1: Quantum Steganography <br>  [Project 2: Dynamic Traffic Management with Qutrits](https://qc-hacks.herokuapp.com/) |Stanfordx x Yale|
+|  MacHacks 2021               	|    Winner Best Best Quantum Computing Hack    	|     [Check it out](https://devpost.com/software/quantum-computing-submission) | McMaster AI Society |
+|    Hack for Africa: A Microsoft Challenge!             	|   Won the Best Out of the Box Hack      	|   [check it out](https://dvp.st/34cy5G1)         	| African Library Project & Microsoft |
+|    Philly Codefest 2020            	|     Collaborative Award <br>  Best Hack for Social Good <br> Bring ESG funds to the spotlight (Vanguard)  	|     [check it out](https://devpost.com/software/grow-n-track-u7962v)      	| Drexel University |
 
 
 ### Guild Leader: DevScript Winter of Code at [LHD - Build](https://localhackday.mlh.io/build)
