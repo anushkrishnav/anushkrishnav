@@ -83,6 +83,11 @@
 ![](https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif)
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [The Art of Conquering Hackathons](https://anush-venkatakrishna.medium.com/hackathon-the-never-give-up-a-game-ba5fc86d646?source=rss-942249e59fe0------2)
+- [Bunny Prisoner Locating](https://anush-venkatakrishna.medium.com/bunny-prisoner-locating-9b5b22c5fce7?source=rss-942249e59fe0------2)
+- [Part 1: Winter or Summer, Take your baby steps into OpenSource Now !!](https://anush-venkatakrishna.medium.com/part-1-winter-or-summer-take-your-baby-steps-into-opensource-now-7d661235d7ff?source=rss-942249e59fe0------2)
+- [Second Highest Salary](https://anush-venkatakrishna.medium.com/second-highest-salary-b7d4e9069794?source=rss-942249e59fe0------2)
+- [Combine Two Tables](https://anush-venkatakrishna.medium.com/combine-two-tables-aaaf224aad31?source=rss-942249e59fe0------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <p>
