@@ -63,19 +63,17 @@
 |    Hack for Africa: A Microsoft Challenge!             	|   Won the Best Out of the Box Hack      	|   [check it out](https://dvp.st/34cy5G1)         	| African Library Project & Microsoft |
 |    Philly Codefest 2020            	|     Collaborative Award <br>  Best Hack for Social Good <br> Bring ESG funds to the spotlight (Vanguard)  	|     [check it out](https://devpost.com/software/grow-n-track-u7962v)      	| Drexel University |
 
-
-### Guild Leader: DevScript Winter of Code at [LHD - Build](https://localhackday.mlh.io/build)
-### [Lead Organiser DevScript Winter of Code](https://devscript.tech/woc)
-
-
-
-### Mentor - Winhacks 2021
-### Mentor - BorderHacks 2020
-### Mentor & Judge - HackGT 2020
-### Mentor - Creatica 2020
-### Mentor - BHackNC 2020
-### Mentor - Sunhacks
-### Mentor - OpenSource DevScript
+## Other Activities
+|Year| Event name | What I did |
+|--|--|--|
+|2021| Learn Hack Day - Build | Guild Leader: DevScript Winter of Code <br> Top 5 guilds|
+|2020 - 2021| [DevScript Winter of Code](https://devscript.tech/woc)| Lead Organiser|
+|2021| WinHacks | Mentor|
+|2020| Border Hacks| Mentor|
+|2020| Hack GT | Mentor & Judge|
+|2020|  Creatica| Mentor|
+|2020| HacksNC| Mentor|
+|2020| SunHacks | Mentor|
 
 ## How you start a Convo with me
 😄 Talk to me about maths, economics, algorithms, and technology. <br>
