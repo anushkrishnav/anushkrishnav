@@ -1,7 +1,7 @@
 # :wave:  I am Anush Krishna.V  🔭 
 [Microsoft Certified Azure AI Enginner - Associate](https://www.youracclaim.com/badges/7ea5d096-8519-4887-9312-d9c0909154b5/public_url)
 <br>
-## Contact me @  https://anushkrishnav.rocks/
+
 ## Blogs
 <!-- MEDIUM-STORY-LIST:START -->
 - [The Art of Conquering Hackathons](https://anush-venkatakrishna.medium.com/hackathon-the-never-give-up-a-game-ba5fc86d646?source=rss-942249e59fe0------2)
