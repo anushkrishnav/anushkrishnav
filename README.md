@@ -1,9 +1,6 @@
-# :wave:  I am Anush Krishna.V and I love memes 🔭 
-<a href=https://github.com/TesseractCoding/NeoAlgo>
-   <img src=https://img.shields.io/badge/NeoAlgo-manager-brightgreen>
-   <img src=https://img.shields.io/badge/Issue_Watcher-Project_Admin-brightgreen>
-</a>
-
+# :wave:  I am Anush Krishna.V  🔭 
+[Microsoft Certified Azure AI Enginner - Associate](https://www.youracclaim.com/badges/7ea5d096-8519-4887-9312-d9c0909154b5/public_url)
+<br>
 ## Contact me @  https://anushkrishnav.rocks/
 ## Blogs
 <!-- MEDIUM-STORY-LIST:START -->
