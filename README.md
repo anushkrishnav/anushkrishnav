@@ -1,6 +1,7 @@
 # :wave:  I am Anush Krishna.V  🔭 
-[Microsoft Certified Azure AI Enginner - Associate](https://www.youracclaim.com/badges/7ea5d096-8519-4887-9312-d9c0909154b5/public_url)
-<br>
+## [Microsoft Certified Azure AI Enginner - Associate](https://www.youracclaim.com/badges/7ea5d096-8519-4887-9312-d9c0909154b5/public_url)
+
+## Competitive Hacker and Inovator - Curently Exploring oppurtunities in Financial Data Science 
 
 ## Blogs
 <!-- MEDIUM-STORY-LIST:START -->
@@ -54,6 +55,7 @@
 | Hackathon Name 	| Awards 	| Project	| Organiser |
 |----------------	|--------	|--------------	|------|
 |  [Robo Hacks](https://robo-hacks.devpost.com/)              	|  Winner Best AI/ML Hack      	| [One-stop Social media Automation for all content creators and community managers out there](https://devpost.com/software/the-boring-business)             	| Major League Hacking|
+|  [Shark Hacks 3](https://sharkhacks3.devpost.com/)              	|  Best Domain Name from GoDaddy Registry      	| [shark attack](https://devpost.com/software/shark-attack-na971c)   <br> well it was a Meme hackthon so we went a lil memey for this one         	| Major League Hacking|
 | [Azure AI Hackathon ](https://azureai.devpost.com/)               	|    Winner Popular Choice award    	|    [LLAM tracks the realtime locusts location and visualizes wind patterns on earth. Predicts the probability of locust attacks on a particular given position through satellite imagery using machine learning models.](https://devpost.com/software/l-l-a-m)          	|Microsoft|
 |   [Qc Hacks](https://www.quantumcoalition.io/)            	| Winner Grand Prize Winner IBM Quantum Creative Challenge <br> Honorable Mention at IBM Technical Challenge      	| Project 1: Quantum Steganography <br>  [Project 2: Dynamic Traffic Management with Qutrits](https://qc-hacks.herokuapp.com/) |Stanfordx x Yale|
 |  MacHacks 2021               	|    Winner Best Best Quantum Computing Hack    	|     [Check it out](https://devpost.com/software/quantum-computing-submission) | McMaster AI Society |
@@ -63,6 +65,7 @@
 ## Other Activities
 |Year| Event name | What I did |
 |--|--|--|
+|2021|Creatica| Mentor and Speaker|
 |2021| Learn Hack Day - Build | Guild Leader: DevScript Winter of Code <br> Top 5 guilds|
 |2020 - 2021| [DevScript Winter of Code](https://devscript.tech/woc)| Lead Organiser|
 |2021| WinHacks | Mentor|
