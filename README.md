@@ -16,20 +16,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=anushkrishnav&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--- [](https://user-stats.anushkrishnav.vercel.app/api?username=anushkrishnav&show_icons=true&title_color=8fe9e0&icon_color=79ff97&text_color=FFFFFF&theme=dark) --->
-<p>
-   <a><img src="https://img.icons8.com/color/48/000000/python.png"></a>
-   <a><img src="https://img.icons8.com/color/48/000000/c-programming.png"></a>
-   <a><img src="https://img.icons8.com/nolan/64/html-5.png"></a>
-   <a><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
-</p>
-<a>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-<i class="devicon-c-plain"></i>
-</a>
 
-## Current Projects, Internships 
-* [Financial portfolio optimisation using Quantum machine learning](https://qworld.net/qintern-2021/)
+## Current Projects
+* [Financial portfolio optimisation using Quantum machine learning](https://qworld.net/qintern-2021/) (ended might be extended)
 * DLFIN - Deep Learning based tool to help easy forecasting of Stocks and Cryptos
+* BalancED : working on Budget Optimisation and Learning content personalisation 
 
 ## Things that's keeping me busy
 * Data analytics: SPSS, Weka 
