@@ -44,7 +44,8 @@
 
 ## Hackathons
 | Hackathon Name 	| Awards 	| Project	| Organiser |
-|----------------	|--------	|--------------	|------|
+|----------------	|--------	|--------------	|------
+| [Shell Hacks](https://shellhacks2021.devpost.com/)| Winner Code What Matters w/ JP Morgan Chase|[Budget.ai <br>Tackling student loans crisis one expense at a time](https://devpost.com/software/budget-ai) | [Upsilon Pi Epsilon (UPE)](https://upe.cs.fiu.edu/)|
 | [Pre Historic hacks](https://prehackstoric.devpost.com/)|Winner Best use of Auth0|[Built a website to visualise Dino fossils in a 3 rd globe](https://devpost.com/software/dinoworld)| Major League Hacking|
 |  [Robo Hacks](https://robo-hacks.devpost.com/)              	|  Winner Best AI/ML Hack      	| [One-stop Social media Automation for all content creators and community managers out there](https://devpost.com/software/the-boring-business)             	| Major League Hacking|
 |  [Shark Hacks 3](https://sharkhacks3.devpost.com/)              	|  Best Domain Name from GoDaddy Registry      	| [shark attack](https://devpost.com/software/shark-attack-na971c)   <br> well it was a Meme hackthon so we went a lil memey for this one         	| Major League Hacking|
