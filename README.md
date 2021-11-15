@@ -3,7 +3,7 @@
 
 # Building REVA to change the way we Learn Finance and manage our money
 
-<a href="https://app.daily.dev/Bot_Crasher"><img src="https://api.daily.dev/devcards/99af062faf71480c871189ad62b082f5.png?r=5yo" width="400" alt="Anush krishna V's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/Bot_Crasher"><img src="https://api.daily.dev/devcards/99af062faf71480c871189ad62b082f5.png?r=5yo" width="400" alt="Anush krishna V's Dev Card"/></a> -->
 
 ## Blogs
 <!-- MEDIUM-STORY-LIST:START -->
