@@ -1,7 +1,10 @@
 # :wave:  I am Anush Krishna.V  🔭 
 ## [Microsoft Certified Azure AI Enginner - Associate](https://www.youracclaim.com/badges/7ea5d096-8519-4887-9312-d9c0909154b5/public_url)
 
-# Building REVA to change the way we Learn Finance and manage our money
+## Professional Updates
+- **Currently working as a Developer and Devops Enginner at [Metabob](https://metabob.com/)**
+- **Building REVA to change the way we Learn Finance and manage our money**
+- **Global Finalist IBM Call for code 21**
 
 <!-- <a href="https://app.daily.dev/Bot_Crasher"><img src="https://api.daily.dev/devcards/99af062faf71480c871189ad62b082f5.png?r=5yo" width="400" alt="Anush krishna V's Dev Card"/></a> -->
 
