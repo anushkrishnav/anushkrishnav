@@ -15,7 +15,6 @@
 <!-- MEDIUM-STORY-LIST:END --> 
 [Read more ](https://anush-venkatakrishna.medium.com/)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=anushkrishnav&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--- [](https://user-stats.anushkrishnav.vercel.app/api?username=anushkrishnav&show_icons=true&title_color=8fe9e0&icon_color=79ff97&text_color=FFFFFF&theme=dark) --->
 
