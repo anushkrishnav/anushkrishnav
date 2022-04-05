@@ -2,6 +2,7 @@
 ## [Microsoft Certified Azure AI Enginner - Associate](https://www.youracclaim.com/badges/7ea5d096-8519-4887-9312-d9c0909154b5/public_url)
 
 ## Professional Updates
+- **Invited to participate in-person at the NYU AbuDhabi Quantum Computing hackathon**
 - **Currently working as a Developer and Devops Enginner at [Metabob](https://metabob.com/)**
 - **Building REVA to change the way we Learn Finance and manage our money**
 - **Global Finalist IBM Call for code 21**
