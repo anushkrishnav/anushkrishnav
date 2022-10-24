@@ -26,7 +26,7 @@
 * **Depth : A test-taker adaptive examination system.**
 * **BalancED : working on Budget Optimisation and Learning content personalisation**
 * [Financial portfolio optimisation using Quantum machine learning](https://qworld.net/qintern-2021/) (ended might be extended)
-* DLFIN - Deep Learning based tool to help easy forecasting of Stocks and Cryptos
+
 
 ## Things that's keeping me busy
 * Data analytics: SPSS, Weka 
