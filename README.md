@@ -3,7 +3,7 @@
 
 ## Professional Updates
 - **Invited to participate in-person at the NYU AbuDhabi Quantum Computing hackathon**
-- **Currently working as a Developer and Devops Enginner at [Metabob](https://metabob.com/)**
+- **Currently working as a Developer and Data Enginner at [Metabob](https://metabob.com/)**
 - **Building REVA to change the way we Learn Finance and manage our money**
 - **Global Finalist IBM Call for code 21**
 
