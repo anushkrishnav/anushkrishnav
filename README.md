@@ -64,7 +64,7 @@
 |    Philly Codefest 2020            	|     Collaborative Award <br>  Best Hack for Social Good <br> Bring ESG funds to the spotlight (Vanguard)  	|     [check it out](https://devpost.com/software/grow-n-track-u7962v)      	| Drexel University |
 
 ## Other Activities
-|Year| Event name | What I did |
+|Year| Event name | Title |
 |--|--|--|
 |2021|Creatica| Mentor and Speaker|
 |2021| Learn Hack Day - Build | Guild Leader: DevScript Winter of Code <br> Top 5 guilds|
