@@ -28,7 +28,7 @@
 * [Financial portfolio optimisation using Quantum machine learning](https://qworld.net/qintern-2021/) (ended might be extended)
 
 
-## Things that's keeping me busy
+## Tools that keep my going
 * Data analytics: SPSS, Weka 
 * Data Visualization: Pandas, Matplotlib
 * Frameworks: Flask, Streamlit, Django
