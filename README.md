@@ -5,8 +5,8 @@
 ### Checkout My new [Data Portfolio](https://github.com/anush-data-portfolio/)
 
 ## Professional Updates
-- ** Started my MS in Data Science at RIT **
-- ** Built a New Airflow Project !! [Paytrack](https://github.com/anush-data-portfolio/PayTrack) **
+- **Started my MS in Data Science at RIT**
+- **Built a New Airflow Project !! [Paytrack](https://github.com/anush-data-portfolio/PayTrack)**
 - Moved to Rochester !! 
 
 
