@@ -45,7 +45,10 @@
 * 
 * Apache Spark, Airflow
 --->
-
+## Papers
+| Paper Title	| Authors	| Conference| Link|
+|----------------	|--------	|--------------	|------|
+|How to refactor this code? An exploratory study on developer-ChatGPT refactoring conversations| Eman Abdullah AlOmar, AnushKrishna Venkatakrishnan, Mohamed Wiem Mkaouer, Christian Newman, Ali Ouni |[MSR' 24](https://2024.msrconf.org/)|https://2024.msrconf.org/details/msr-2024-mining-challenge/14/How-to-refactor-this-code-An-exploratory-study-on-developer-ChatGPT-refactoring-conv|
 
 ## Hackathons
 | Hackathon Name 	| Awards 	| Project	| Organiser |
