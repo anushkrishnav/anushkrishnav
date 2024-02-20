@@ -7,6 +7,8 @@
 ## Professional Updates
 - **Started my MS in Data Science at RIT**
 - **Built a New Airflow Project !! [Paytrack](https://github.com/anush-data-portfolio/PayTrack)**
+- Research Assistant 
+- Backend-Dev and DB Optimisation at [RIT STUDENT GOVERNMENT](https://github.com/ritstudentgovernment)
 - Moved to Rochester !! 
 
 
