@@ -1,6 +1,6 @@
 # :wave:  I am Anush Krishna.V  🔭 
 <!-- ## [Microsoft Certified Azure AI Engineer - Associate](https://www.youracclaim.com/badges/7ea5d096-8519-4887-9312-d9c0909154b5/public_url) -->
-## Ex-Data Engineer at [Metabob](https://metabob.com/)
+## Ex-Data Engineer [Metabob](https://metabob.com/)
 
 ### Checkout My new [Data Portfolio](https://github.com/anush-data-portfolio/)
 
