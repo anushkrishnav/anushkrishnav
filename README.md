@@ -78,7 +78,7 @@
 |2020| HacksNC| Mentor|
 |2020| SunHacks | Mentor|
 
-## How you start a Convo with me
+<!-- ## 
 😄 Talk to me about maths, economics, algorithms, and technology. <br>
 🔭 Show me Memes. <br>
 ⚡ Collab with me on Data science Projects, Hackathons, PyAutomate(looking for some cool Pythonners). <br>
@@ -88,8 +88,7 @@
 * [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 * [PyAutomate](https://github.com/anushkrishnav/PyAutomate)
 * [Issue-Watcher](https://github.com/TesseractCoding/Issue_Watcher)
-
-
+-->
 
 <p>
 <a href="https://twitter.com/Anush_krishna_v">
