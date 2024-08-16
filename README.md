@@ -83,12 +83,13 @@
 🔭 Show me Memes. <br>
 ⚡ Collab with me on Data science Projects, Hackathons, PyAutomate(looking for some cool Pythonners). <br>
 ✍️ My latest [Blog](https://anush-venkatakrishna.medium.com/part-1-winter-or-summer-take-your-baby-steps-into-opensource-now-7d661235d7ff)
+-->
 <br>
 ## Maintainer for :
 * [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 * [PyAutomate](https://github.com/anushkrishnav/PyAutomate)
 * [Issue-Watcher](https://github.com/TesseractCoding/Issue_Watcher)
--->
+
 
 <p>
 <a href="https://twitter.com/Anush_krishna_v">
