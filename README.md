@@ -27,7 +27,7 @@
 
 <!--- [](https://user-stats.anushkrishnav.vercel.app/api?username=anushkrishnav&show_icons=true&title_color=8fe9e0&icon_color=79ff97&text_color=FFFFFF&theme=dark) --->
 
-## Tools that keep me going
+## Tools that keeps me going
 * Data analytics: SPSS, Weka 
 * Data Visualization: Pandas, Matplotlib
 * Frameworks: Flask, Streamlit, Django
