@@ -6,7 +6,7 @@
 
 ## Professional Updates
 - Researching on Automating Python Software system maintenance ( working with Prof. Mohamed Wiem Mkaouer)
-- **Finishing up my MS in Data Science at RIT**
+- **I am not a Master of Science in Data Science !**
 - **Built a New Airflow Project !! [Paytrack](https://github.com/anush-data-portfolio/PayTrack)**
 - Backend-Dev and DB Optimisation at [RIT STUDENT GOVERNMENT](https://github.com/ritstudentgovernment)
 - Moved to Rochester !! 
